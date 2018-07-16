@@ -6,101 +6,101 @@ categories: jekyll update
 ---
 
 
-![Downtown]({{ "/images/14-07-2018/IMG_6068.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6068.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6071.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6071.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6072.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6072.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6073.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6073.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6074.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6074.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6075.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6075.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6076.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6076.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6077.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6077.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6080.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6080.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6081.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6081.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6082.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6082.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6083.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6083.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6084.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6084.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6085.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6085.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6086.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6086.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6087.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6087.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6089.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6089.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6090.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6090.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6091.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6091.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6092.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6092.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6093.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6093.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6100.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6100.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6101.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6101.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6102.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6102.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6103.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6103.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6104.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6104.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6105.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6105.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6106.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6106.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6107.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6107.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6108.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6108.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6109.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6109.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6110.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6110.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6111.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6111.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6112.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6112.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6113.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6113.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6114.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6114.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6115.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6115.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6116.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6116.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6117.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6117.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6118.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6118.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6119.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6119.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6120.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6120.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6121.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6121.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6122.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6122.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6123.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6123.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6124.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6124.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6125.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6125.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6126.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6126.jpg" | absolute_url }}){:class="lozad"}
 
-![Downtown]({{ "/images/14-07-2018/IMG_6127.jpg" | absolute_url }})
+![Downtown]({{ "/images/14-07-2018/IMG_6127.jpg" | absolute_url }}){:class="lozad"}
 
