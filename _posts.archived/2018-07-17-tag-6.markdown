@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "from our place to Café Salween - drinking Myanmar Single Origin"
+date:   2018-07-17 10:26:33 +0630
+categories: jekyll update
+---
+
+
+![Downtown]({{ "/images/17-07-2018/IMG_6199.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6200.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6201.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6202.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6203.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6204.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6205.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6206.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6207.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6208.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6209.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6210.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6211.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6212.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6213.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6214.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6215.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6216.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6217.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6218.jpg" | absolute_url }}){:class="lozad"}
+
+![Downtown]({{ "/images/17-07-2018/IMG_6219.jpg" | absolute_url }}){:class="lozad"}
+
