@@ -61,3 +61,56 @@ Islam: 4,3%
 Hinduismus: 0,5%  
 
 
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-01.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-07.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-13.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-21.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-25.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-30.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-31.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-37.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/DW-Akademie-Office-Opening-41.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/260.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/280.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/283.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/287.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/299.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/330.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/334.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/348.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/376.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/387.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/400.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/413.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/433.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/444.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/462.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/464.jpg" | absolute_url }}){:class="lozad"}
+
+![Office Opening]({{ "/images/08-08-2018/6633.jpg" | absolute_url }}){:class="lozad"}
+
+
